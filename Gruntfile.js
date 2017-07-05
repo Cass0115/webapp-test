@@ -41,7 +41,7 @@ module.exports = function (grunt) {
       }, // end options
       pages:{
         options:{
-          remote: 'git@github.com:Cass0115/test-webapp.git',
+          remote: 'git@github.com:Cass0115/webapp-test.git',
           branch: 'gh-pages'
         } //end pages options
       } //end pages
